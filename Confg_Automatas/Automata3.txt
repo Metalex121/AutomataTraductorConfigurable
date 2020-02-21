@@ -1,0 +1,4 @@
+ESTADO(0..N)  TIPO(N/F)  TRANSICIONES(simbolo/estado destino/traduccion)
+0             F          a/0/0 b/1/1		
+1             N          a/0/0 b/1/1 
+

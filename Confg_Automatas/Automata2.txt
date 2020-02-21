@@ -1,0 +1,8 @@
+ESTADO(0..N)  TIPO(N/F)  TRANSICIONES(simbolo/estado destino/traduccion)
+0             N          b/1/10 a/0/E	
+1             F          c/2/E a/6/1 b/6/1
+2             N          a/3/E
+3			  N          c/4/E
+4             N          a/5/10
+5             F			 a/6/1 b/6/1 c/2/E
+6			  F          a/6/1 b/6/1
